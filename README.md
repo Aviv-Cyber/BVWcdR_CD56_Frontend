@@ -1,6 +1,6 @@
-# {{APP_NAME}}
+# BVWcdR_CD56
 
-- **Application Name:** {{APP_NAME}}
-- **Frontend Repository:** `{{FRONTEND_REPO}}`
-- **Live Pages URL:** [{{LIVE_URL}}]({{LIVE_URL}})
+- **Application Name:** BVWcdR_CD56
+- **Frontend Repository:** `BVWcdR_CD56_Frontend`
+- **Live Pages URL:** [https://aviv-cyber.github.io/BVWcdR_CD56_Frontend/](https://aviv-cyber.github.io/BVWcdR_CD56_Frontend/)
 - **Architecture:** VaultDB (AES-GCM Encrypted Endpoint + Cloudflare Worker Proxy)
